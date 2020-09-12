@@ -7,3 +7,4 @@ scoend edit
 Git tracks changs
 
 branch test
+Creating a new branch is quick AND simple
